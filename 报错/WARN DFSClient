@@ -1,0 +1,2 @@
+21/08/20 15:45:28 WARN DFSClient: Failed to connect to /172.24.235.238:9866 for file /user/hive/warehouse/ods.db/order/dates=20210101/part-00000-174c6138-869d-4427-b740-539333599e95-c000 for block BP-958285018-172.24.15.79-1627045969474:blk_1073741831_1007, add to deadNodes and continue. 
+org.apache.hadoop.net.ConnectTimeoutException: 60000 millis timeout while waiting for channel to be ready for connect. ch : java.nio.channels.SocketChannel[connection-pending remote=/172.24.235.238:9866]
